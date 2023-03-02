@@ -24,7 +24,7 @@ This project is licensed under the MIT License.
 Contributions, issues, and feature requests are welcome!
 📧 Contact
 
-For any questions or feedback, feel free to contact me at [email protected]
+For any questions or feedback, feel free to contact me at hello@faisals.net
 🌟 Credits
 
     Icons made by Freepik from www.flaticon.com
